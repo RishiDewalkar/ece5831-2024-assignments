@@ -1,0 +1,1 @@
+This project demonstrates a simple Multilayer Perceptron (MLP) neural network using NumPy. The network consists of an input layer, one hidden layer, and an output layer, with forward propagation and sigmoid activation.
