@@ -1,1 +1,1 @@
-This is fourth assignment that demonstrates a simple Multilayer Perceptron (MLP) neural network using NumPy. The network consists of an input layer, one hidden layer, and an output layer, with forward propagation and sigmoid activation.
+This is fourth assignment that demonstrates a simple Multilayer Perceptron (MLP) neural network using NumPy. The network consists of an input layer, hidden layer, and an output layer, with forward propagation and sigmoid activation.
