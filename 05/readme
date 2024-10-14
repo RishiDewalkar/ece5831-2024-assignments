@@ -1,1 +1,11 @@
+Image Classification of Rock, Paper, Scissors: 
+This project aims to use a Teachable Machine trained model to categorize the Rock, Paper, Scissors hand movements. The model can anticipate which gesture is displayed based on input from a camera feed or an image file.
+ Youtube Live Demo Link: https://youtu.be/mMuGY5IYaOY
+
+1. Python programs for categorising motions from photos or webcams:
+Hand gesture classification from a picture file using the rock-paper-scissor.py script.
+Using a webcam, the program rock-paper-scissor-live.py classifies hand motions in real time.
+2. Teachable.ipynb, a Jupyter notebook, is used to test functionality before it's integrated into final scripts.
+3. To recognise the motions, a trained model file (keras_model.h5) and labels file (labels.txt) are required.
+4. Sample photos to test the model (Pp.jpg, Rr.jpg, Ss.jpg).
 
