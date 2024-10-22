@@ -1,1 +1,5 @@
+module5-2.ipynb contains module taught in the class
+mnist_data.py: This project provides a Python class for downloading, loading, and processing the MNIST dataset, facilitating easy access for image classification tasks. It includes features such as normalization of images and one-hot encoding of labels for efficient training.
+module5-2.py: This script visualizes an image from the MNIST dataset based on user-defined input for the dataset type (train or test) and image index. It displays the image and its corresponding label, facilitating quick exploration of the dataset.
+
 
