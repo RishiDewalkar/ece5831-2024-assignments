@@ -1,1 +1,11 @@
+Project Structure:
+two_layer_net.py: Defines the main neural network class.
+activation.py: Contains activation functions (e.g., ReLU).
+errors.py: Includes error functions (e.g., cross-entropy).
+layers.py: Defines the layers used in the network (e.g., Affine, SoftmaxWithLoss).
 
+
+Concise Summary of the assignment:
+Forward Propagation: The input passes through an affine layer, ReLU activation, and a final affine layer. Softmax is applied in the last layer for classification.
+Loss Computation: Cross-entropy loss is calculated to measure prediction error.
+Backpropagation: Gradients are computed for each layer in reverse order to update weights and biases.
