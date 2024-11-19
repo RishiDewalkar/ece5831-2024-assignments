@@ -1,1 +1,4 @@
 
+This repository implements the LeNet Convolutional Neural Network (CNN) for handwritten digit recognition using the MNIST dataset. It includes the le_net.py module, which defines the LeNet class with methods to build, train, save, and load the model, as well as predict digit labels for input images. The module8.py script uses the trained model to classify handwritten digit images by taking the image path and expected digit as input, providing success or failure feedback based on predictions.
+
+Additionally, the repository includes a Jupyter Notebook (module8.ipynb) that demonstrates the complete workflow: training the LeNet model, saving and loading it, and testing it on custom images. This project is an excellent resource for learning about CNNs, model training, and image classification using Python and TensorFlow.
